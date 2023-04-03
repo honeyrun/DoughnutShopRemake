@@ -171,10 +171,6 @@ input [type="checkbox"] {
   height: 20px;
 }
 
-input[type="radio"] {
-  accent-color: $green;
-}
-
 #pCon {
   display: flex;
   width: 100%;

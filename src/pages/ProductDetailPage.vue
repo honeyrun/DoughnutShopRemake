@@ -1,9 +1,13 @@
 <template>
   <div>
     <div class="navBg"></div>
-    <div class="detail">
-      <!-- doughnut info -->
-      <h5>Menu / {{ doughnut.pname }}</h5>
+    <div class="dCon">
+      <h5>
+        <router-link to="/productlist" style="text-decoration: none"
+          >Menu /</router-link
+        >
+        {{ doughnut.pname }}
+      </h5>
       <figure>
         <section>
           <img :src="getImage(doughnut)" :alt="doughnut.pid" />
@@ -25,15 +29,14 @@
           </figcaption>
         </article>
       </figure>
-
       <!--  doughnut detail -->
-      <article class="dInfo" id="dInfo">
-        <aside class="pDetail">
+      <article id="dInfo">
+        <aside style="flex-direction: column">
           <h2>Product Detail</h2>
           <p>{{ doughnut.pInfo }}</p>
         </aside>
         <aside class="allInfo">
-          <section class="cal">
+          <section style="width: 40%">
             <h2>All Calories</h2>
             <table>
               <thead>
@@ -46,17 +49,17 @@
                 </th>
               </thead>
               <tbody>
-                <th v-for="(pCal, idx) in doughnut.pCals" :key="idx">
+                <td v-for="(pCal, idx) in doughnut.pCals" :key="idx">
                   <tr>
                     {{
                       pCal
                     }}
                   </tr>
-                </th>
+                </td>
               </tbody>
             </table>
           </section>
-          <section class="ingd">
+          <section style="width: 60%">
             <h2>All Ingredients</h2>
             <p>{{ doughnut.pIngd }}</p>
           </section>
@@ -65,7 +68,7 @@
 
       <!-- Recommended donuts -->
       <section id="items">
-        <h2>Recommendation</h2>
+        <h2>You May Also Like</h2>
         <article>
           <doughnut-compo
             v-for="(arrayItem, idx) in arrayItems"
@@ -140,41 +143,63 @@ export default {
   background-color: $green;
   height: 5rem;
 }
-
-.detail {
-  padding-top: 12vh;
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  row-gap: 7vh;
-  padding-bottom: 15vh;
+h1 {
+  font-size: 40px;
 }
-.detail > figure {
+h2 {
+  padding-bottom: 1rem;
+}
+h3 {
+  font-weight: 400;
+}
+h5 {
   width: 70%;
-  height: 70%;
-  display: flex;
-  background-color: white;
-  align-items: center;
+  text-align: left;
+  font-family: "poppins";
+  font-weight: 400;
+  font-size: 16px;
 }
-.detail > figure > section {
-  width: 54%;
+p {
+  font-size: 15px;
+}
+
+.dCon {
+  padding-top: 8vh;
+  align-items: center;
   display: flex;
   justify-content: center;
-}
-.detail > figure img {
-  width: 42vh;
-  height: 42vh;
-}
-.detail > figure > article {
-  display: flex;
   flex-direction: column;
+  row-gap: 2.5rem;
+  padding-bottom: 15vh;
+
+  > figure {
+    width: 70%;
+    display: flex;
+    background-color: white;
+    align-items: center;
+
+    img {
+      width: 23rem;
+      height: 23rem;
+    }
+    > section {
+      width: 54%;
+      display: flex;
+      justify-content: center;
+    }
+    > article {
+      display: flex;
+      flex-direction: column;
+      row-gap: 0.5rem;
+    }
+    > aside {
+      position: absolute;
+      display: flex;
+      column-gap: 1vh;
+    }
+  }
 }
-.detail > figure > aside {
-  position: absolute;
-  display: flex;
-  column-gap: 1vh;
-}
+
 .icon {
   display: flex;
   column-gap: 1vh;
@@ -182,7 +207,11 @@ export default {
 figcaption {
   display: flex;
   flex-direction: column;
-  row-gap: 1vh;
+  row-gap: 0.5rem;
+  > p {
+    font-size: 24px;
+    color: $green;
+  }
 }
 i {
   color: #417358;
@@ -197,71 +226,67 @@ i {
 figure > article {
   width: 40%;
 }
-h1 {
-  font-size: 40px;
-}
-h3 {
-  font-weight: 400;
-}
-figcaption > p {
-  font-size: 30px;
-}
+
 table {
   display: flex;
+  thead,
+  tbody {
+    display: flex;
+    flex-direction: column;
+  }
 }
-thead,
+tr {
+  font-size: 15px;
+}
 tbody {
-  display: flex;
-  flex-direction: column;
+  td {
+    padding-left: 0.5rem;
+    font-weight: 400;
+  }
 }
-th {
-  border-top: 1px solid black;
+th,
+td {
+  border-top: 1px solid $black-200;
+  padding: 0.1rem;
 }
-th:first-child {
-  border-top: 3px solid black;
+th:first-child,
+td:first-child {
+  border-top: 3px solid $black-200;
 }
 a {
-  color: black;
+  color: $lightBrown;
+  font-weight: normal;
 }
 a:hover {
   color: #417358;
 }
-.dInfo {
+
+#dInfo {
   width: 70%;
+  box-sizing: border-box;
+  padding: 2rem;
   background-color: white;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+
+  > aside {
+    padding: 2%;
+    height: 50%;
+    display: flex;
+  }
 }
-.dInfo > aside {
-  padding: 2%;
-  height: 50%;
-  display: flex;
-  row-gap: 1vh;
-}
-.dInfo > a {
-  color: black;
-}
-.pDetail {
-  display: flex;
-  flex-direction: column;
-}
+
 .allInfo {
   display: flex;
   flex-direction: row;
-  column-gap: 4vh;
+  column-gap: 0.3rem;
+
+  > section {
+    display: flex;
+    flex-direction: column;
+  }
 }
-.allInfo > section {
-  display: flex;
-  flex-direction: column;
-  row-gap: 1vh;
-}
-.cal {
-  width: 40%;
-}
-.ingd {
-  width: 60%;
-}
+
 #items {
   width: 100%;
   display: flex;
@@ -271,19 +296,20 @@ a:hover {
   row-gap: 2vh;
   background-color: white;
   padding: 7vh 0;
-}
-#items article {
-  width: 70%;
-  display: flex;
-  justify-content: space-between;
-}
-#items figure {
-  width: 25vh;
-  display: flex;
-  align-items: center;
-}
-#items h2 {
-  width: 68%;
-  text-align: left;
+
+  article {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+  }
+  #items figure {
+    width: 25vh;
+    display: flex;
+    align-items: center;
+  }
+  h2 {
+    width: 68%;
+    text-align: left;
+  }
 }
 </style>
