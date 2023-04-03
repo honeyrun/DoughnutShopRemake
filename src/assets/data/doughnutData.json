@@ -1,0 +1,702 @@
+[
+  {
+    "pid": 1,
+    "pname": "Classic Glazed",
+    "price": 3.23,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Plain doughnut with sugar glazed on top",
+    "pInfo": "Look out for the Hot Light™! Our Hot Light signals something really special. When we turn the light on, it means that our delicious Original Glazed® Doughnuts are available right at that very moment! So when you see the Hot Light on, stop in and get some hot Original Glazed® doughnuts.",
+    "pIngd": " Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, glaze (sugar, water, corn syrup, corn starch, agar, citric acid, potassium sorbate",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      250, 120, 13, 5, 0, 0, 95, 28, "1 gram", 20, 2
+    ]
+  },
+  {
+    "pid": 2,
+    "pname": "Chocolate Glazed",
+    "price": 3.85,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Brioche donut with dark chocolate pudding",
+    "pInfo": "Sink your teeth into our rich and decadent chocolate glazed doughnut, made with the finest cocoa processed with alkali for a smooth, indulgent flavor.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), cocoa processed with alkali, yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, glaze (sugar, water, corn syrup, corn starch, agar, citric acid, potassium sorbate (preservative), artificial flavor, color added (including yellow 5, yellow 6, red 40))",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      320, 150, 16, 7, 0, 0, 135, 41, "less than 1 gram", 24, 3
+    ]
+  },
+  {
+    "pid": 3,
+    "pname": "Vanilla Cream",
+    "price": 3.54,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Brioche donut with vanilla cream",
+    "pInfo": "Creamy, dreamy, and oh-so-delicious, our vanilla cream doughnut is filled with a luscious, sweet vanilla custard that's sure to satisfy your sweet tooth.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, pastry cream filling (water, sugar, modified cornstarch, high fructose corn syrup, soybean oil, contains 2% or less of: salt, artificial flavor, titanium dioxide (color), sodium stearoyl lactylate, mono and diglycerides, polysorbate 60, sodium benzoate (preservative), citric acid, beta carotene (color))",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      280, 130, 14, 6, 0, 0, 110, 40, "1 gram", 22, 2
+    ]
+  },
+  {
+    "pid": 4,
+    "pname": "Nutty Shell",
+    "price": 5.81,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Crunch brioche donut with wallnut pieces on top",
+    "pInfo": "This doughnut has it all - a crispy, crunchy exterior coated in a mix of nuts and a soft, fluffy interior that's perfect for soaking up all that nutty goodness.",
+    "pIngd": "Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron as Ferrous Sulfate, Thiamine Mononitrate, Enzyme, Riboflavin, Folic Acid), Palm Oil, Water, Dextrose, Soybean Oil, Whey (Milk), contains 2% or less of each of the following: Yeast, Soy Lecithin, Leavening (Sodium Acid Pyrophosphate, Baking Soda), Salt, Mono and Diglycerides, Sodium Stearoyl Lactylate, Cellulose Gum, Guar Gum, Xanthan Gum, Artificial Flavor, Colored with (Titanium Dioxide, Turmeric), Corn Syrup Solids",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      340, 170, 19, 8, 0, 0, 150, 43, "less than 1 gram", 24, 3
+    ]
+  },
+  {
+    "pid": 5,
+    "pname": "Freshly Baked",
+    "price": 3.59,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Brioche donut filled with nutella",
+    "pInfo": " There's nothing quite like the aroma of freshly baked doughnuts, and our classic, fluffy yeast doughnuts are just the ticket for a delicious, comforting treat.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, blueberry bits (sugar, wheat flour, blueberry puree, soybean oil, natural flavor, citric acid, pectin, sodium citrate, malic acid), sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum, blueberry juice concentrate (color), red 40, blue 1, blue 2",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      290, 140, 16, 6, 0, 0, 115, 42, "1 gram", 22, 2
+    ]
+  },
+  {
+    "pid": 6,
+    "pname": "Apple Cinnamon",
+    "price": 4.53,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Brioche donut with salted Caramel cream",
+    "pInfo": "Take a bite out of our apple cinnamon doughnut, made with real apple pieces and a warm, comforting cinnamon spice blend that's sure to make you feel right at home.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, cinnamon, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      300, 150, 17, 7, 0, 0, 120, 42, "less than 1 gram", 23, 3
+    ]
+  },
+  {
+    "pid": 7,
+    "pname": "Maple Bacon",
+    "price": 4.86,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Brioche donut with premium matcha custard",
+    "pInfo": "For those who like a little sweet with their savory, our maple bacon doughnut is a must-try. With a sweet maple glaze and crispy, salty bacon bits on top, this doughnut is the ultimate flavor experience.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum, maple syrup, bacon (pork, water, salt, sugar, sodium phosphates, sodium erythorbate, sodium nitrite), smoke flavor",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      270, 130, 14, 6, 0, 0, 100, 39, "less than 1 gram", 21, 2
+    ]
+  },
+  {
+    "pid": 8,
+    "pname": "Lemon Glazed",
+    "price": 4.36,
+    "g_free": false,
+    "vegan": true,
+    "ptitle": "Plain doughnut covered with house-made lemon curd",
+    "pInfo": "Brighten up your day with our tangy and refreshing lemon glazed doughnut, made with fresh lemon juice and a sweet glaze that's just the right balance of tart and sweet.",
+    "pIngd": "Donut: Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, lemon juice concentrate, citric acid, turmeric (color), cellulose gum",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      280, 130, 14, 6, 0, 0, 105, 41, "less than 1 gram", 22, 2
+    ]
+  },
+  {
+    "pid": 9,
+    "pname": "Raspberry Jelly",
+    "price": 5.23,
+    "g_free": false,
+    "vegan": true,
+    "ptitle": "Brioche donut covered with sugar glazedfrsh strawberrie jelly",
+    "pInfo": "Our raspberry jelly doughnut is a classic for a reason - with a soft, fluffy doughnut exterior and a sweet, fruity raspberry filling inside, it's a flavor explosion in every bite.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum, high fructose corn syrup, raspberry puree concentrate, water, citric acid, pectin, sodium benzoate (preservative), natural and artificial flavors, red 40.",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      320, 150, 16, 7, 0, 0, 130, 48, "less than 1 gram", 24, 3
+    ]
+  },
+  {
+    "pid": 10,
+    "pname": "Cookies and Cream",
+    "price": 3.35,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Brioche donut dipped in cookies & cream white chocolate",
+    "pInfo": "For all the cookie lovers out there, our cookies and cream doughnut is the perfect indulgence. Made with crumbled Oreo cookies and a sweet glaze, this doughnut is sure to satisfy your sweet tooth.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, chocolate cookie crumbs (bleached wheat flour, sugar, palm oil, cocoa processed with alkali, corn flour, corn starch, salt, natural and artificial flavor, sodium bicarbonate, soy lecithin), vegetable oil (palm, soybean), corn syrup, cream cheese (pasteurized milk and cream, cheese culture, salt, carob bean gum), high fructose corn syrup, whey protein concentrate, sodium phosphate, sodium citrate, guar gum, carrageenan, soy lecithin, titanium dioxide (color), yellow 5, yellow 6, blue 1",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      410, 210, 24, 10, 0, 0, 160, 57, "1 gram", 29, 3
+    ]
+  },
+  {
+    "pid": 11,
+    "pname": "Boston Cream",
+    "price": 5.02,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Brioche donut with salted Caramel cream",
+    "pInfo": "Sink your teeth into our classic Boston cream doughnut, filled with a rich, creamy custard and topped with a smooth, chocolate glaze.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum, chocolate flavored coating (sugar, partially hydrogenated palm kernel oil, cocoa powder, whey powder, soy lecithin, sorbitan tristearate, salt, artificial flavor), vanilla flavored filling (water, high fructose corn syrup, sugar, modified cornstarch, titanium dioxide, salt, natural and artificial flavors, potassium sorbate and sodium benzoate [preservatives], citric acid, yellow 5, yellow 6)",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      340, 170, 19, 8, 0, 0, 145, 46, "less than 1 gram", 24, 3
+    ]
+  },
+  {
+    "pid": 12,
+    "pname": "Apple Fritter",
+    "price": 5.1,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Crunch brioche donut filled with cereal milk cream",
+    "pInfo": "Our apple fritter is the perfect combination of crispy and tender, with chunks of real apple baked right in and a warm, comforting spice blend that's sure to please.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, diced apples (apples, high fructose corn syrup, corn syrup, water, modified corn starch, citric acid, ascorbic acid, salt, cinnamon), sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, cinnamon, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum, beta carotene (color)",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      290, 140, 16, 6, 0, 0, 115, 40, "less than 1 gram", 22, 2
+    ]
+  },
+  {
+    "pid": 13,
+    "pname": "Strawberry Cookie",
+    "price": 5.19,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Brioche donut filled with coffee mascarpone cream with a dust of dark cocoa powder",
+    "pInfo": " Indulge in our strawberry cookie doughnut, made with a soft, cake-like interior and a sweet, fruity glaze that's perfect for strawberry lovers.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), strawberry filling (high fructose corn syrup, strawberries, water, sugar, modified corn starch, citric acid, natural and artificial flavors, sodium benzoate and potassium sorbate [preservatives], red 40, blue 1), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      330, 170, 19, 9, 0, 0, 140, 45, "less than 1 gram", 24, 3
+    ]
+  },
+  {
+    "pid": 14,
+    "pname": "Pumpkin Spice",
+    "price": 5.5,
+    "g_free": false,
+    "vegan": true,
+    "ptitle": "Brioche donut dipped in cookies & cream white chocolate",
+    "pInfo": "Embrace the flavors of fall with our pumpkin spice doughnut, made with real pumpkin puree and a warm spice blend that's sure to give you all the cozy autumn feels.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), pumpkin, yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, cinnamon, nutmeg, allspice, ginger, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      310, 150, 17, 7, 0, 0, 120, 42, "less than 1 gram", 23, 3
+    ]
+  },
+  {
+    "pid": 15,
+    "pname": "Coconut Cream",
+    "price": 4.44,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Brioche donut dipped in Belgian chocolate & peanut",
+    "pInfo": "Transport yourself to a tropical paradise with our coconut cream doughnut, filled with a rich, creamy coconut custard and topped with sweet coconut flakes.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum, coconut flakes",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      310, 150, 17, 8, 0, 0, 140, 40, "less than 1 gram", 22, 3
+    ]
+  },
+  {
+    "pid": 16,
+    "pname": "Tropical Mixed",
+    "price": 3.99,
+    "g_free": false,
+    "vegan": true,
+    "ptitle": "Brioche donut dipped in real Belgian chocolate",
+    "pInfo": "Get a taste of the tropics with our tropical mixed doughnut, made with a mix of juicy pineapple and tangy mango for a sweet and refreshing treat.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, dried pineapple, dried mango, dried papaya",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      280, 130, 14, 7, 0, 0, 35, 18, "less than 1 gram", 35, 1
+    ]
+  },
+  {
+    "pid": 17,
+    "pname": "Nutella Filled",
+    "price": 3.79,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Brioche donut dipped in real Belgian chocolate",
+    "pInfo": "Chocolate lovers, unite! Our Nutella filled doughnut is made with a rich, chocolatey dough and filled with a creamy, hazelnutty Nutella filling that's sure to satisfy your sweet tooth.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cellulose gum, Nutella (sugar, modified palm oil, hazelnuts, cocoa powder, skim milk powder, whey powder, soy lecithin, vanillin)",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      360, 190, 22, 11, 0, 0, 140, 52, "less than 1 gram", 27, 3
+    ]
+  },
+  {
+    "pid": 18,
+    "pname": "Key Lime Pie",
+    "price": 3.09,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Brioche donut with premium matcha white chocolate dip",
+    "pInfo": "Treat yourself to a slice of tropical paradise with our Key Lime Pie doughnut! Made with our signature dough, this doughnut is filled with tangy key lime custard.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, lime juice concentrate, lime oil, citric acid",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      290, 140, 16, 6, 0, 0, 36, 15, "less than 1 gram", 40, 1
+    ]
+  },
+  {
+    "pid": 19,
+    "pname": "Birthday Cup",
+    "price": 3.65,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Vanilla-Glazed Old Fashioned",
+    "pInfo": "Celebrate any occasion with our Birthday Cup doughnut! Our classic doughnut is topped with bright confetti sprinkles and a creamy vanilla frosting. It's the perfect way to make any day feel like a party!",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, sprinkles (sugar, cornstarch, vegetable oil [palm and palm kernel], soy lecithin, confectioner's glaze, red 40, yellow 6, yellow 5, blue 1)",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      340, 160, 17, 8, 0, 0, 45, 19, "less than 1 gram", 48, 1
+    ]
+  },
+  {
+    "pid": 20,
+    "pname": "Chocolate Crunchy",
+    "price": 4,
+    "g_free": false,
+    "vegan": true,
+    "ptitle": "Old-fashioned donut with chocolate dip",
+    "pInfo": "Indulge in our Chocolate Crunchy doughnut! Our classic doughnut is dipped in rich chocolate icing and then rolled in crunchy chocolate flakes for the ultimate chocolate experience.",
+    "pIngd": "Chocolate Crunchy: Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), cocoa processed with alkali, yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, chocolate cookie pieces (enriched wheat flour [wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folic acid], sugar, cocoa processed with alkali, palm oil, high fructose corn syrup, corn flour, salt, baking soda, soy lecithin)",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      420, 210, 23, 10, 0, 0, 55, 16, "less than 1 gram", 57, 2
+    ]
+  },
+  {
+    "pid": 21,
+    "pname": "Orangette",
+    "price": 4.8,
+    "g_free": true,
+    "vegan": false,
+    "ptitle": "Old-fashioned donut with matcha dip",
+    "pInfo": "Take a bite out of our Orangette doughnut! Made with our signature dough, this doughnut is infused with fresh orange zest and topped with a sweet orange glaze.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, orange zest, orange oil, citric acid",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      320, 150, 16, 7, 0, 0, 40, 20, "less than 1 gram", 44, 1
+    ]
+  },
+  {
+    "pid": 22,
+    "pname": "Berry Mix",
+    "price": 4.54,
+    "g_free": false,
+    "vegan": true,
+    "ptitle": "Brioche donut filled with Madagascar vanilla beans custard cream",
+    "pInfo": "Get your daily dose of antioxidants with our Berry Mix doughnut! Our classic doughnut is topped with a mixed berry glaze and finished with a generous sprinkling of fresh berries.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, beta carotene (color), cellulose gum, mixed berry jam (strawberry, raspberry, blueberry), granulated sugar, water, cornstarch, agar, potassium sorbate (preservative), citric acid, artificial flavor, red 40, blue 1",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      260, 120, 13, 6, 0, 0, 30, 13, "less than 1 gram", 38, 1
+    ]
+  },
+  {
+    "pid": 23,
+    "pname": "Salted Caramel",
+    "price": 4.2,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Brioche donut with salted Caramel cream",
+    "pInfo": "Satisfy your sweet and salty cravings with our Salted Caramel doughnut! Our classic doughnut is filled with smooth caramel and topped with a sprinkle of sea salt.",
+    "pIngd": " Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, caramel sauce (corn syrup, high fructose corn syrup, sweetened condensed milk, butter, sugar, water, salt, natural and artificial flavor, potassium sorbate), salt",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      420, 210, 23, 10, 0, 0, 55, 16, "less than 1 gram", 57, 2
+    ]
+  },
+  {
+    "pid": 24,
+    "pname": "Vegan Dark",
+    "price": 3.92,
+    "g_free": false,
+    "vegan": true,
+    "ptitle": "Brioche donut with Vegan chocolate on top",
+    "pInfo": "Our Vegan Dark doughnut is a guilt-free indulgence! Made with plant-based ingredients, this doughnut is topped with a rich dark chocolate glaze and finished with a sprinkle of cocoa powder.",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (palm oil, soybean oil, canola oil), yeast, contains 2% or less of: soy flour, dextrose, salt, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, cocoa powder, dark chocolate (sugar, chocolate liquor, cocoa butter, soy lecithin, vanilla), almond milk",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      290, 130, 14, 6, 0, 0, 34, 13, "less than 1 gram", 42, 1
+    ]
+  },
+  {
+    "pid": 25,
+    "pname": "Mocha Latte",
+    "price": 4.34,
+    "g_free": false,
+    "vegan": false,
+    "ptitle": "Brioche donut with house-made lemon curd",
+    "pInfo": "Made with our signature dough and infused with the delicious taste of coffee and chocolate, this doughnut is then topped with a smooth and creamy mocha glaze. Enjoy it as a mid-day treat or pair it with your morning cup of coffee for the ultimate breakfast experience. Don't wait, try our Mocha Latte doughnut today!",
+    "pIngd": "Enriched wheat flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), water, sugar, vegetable shortening (partially hydrogenated soybean and cottonseed oils), yeast, contains 2% or less of: soy flour, dextrose, salt, whey, soybean oil, leavening (sodium acid pyrophosphate, baking soda), wheat gluten, calcium carbonate, natural and artificial flavors, agar, calcium sulfate, soy lecithin, mono and diglycerides, cornstarch, enzymes, coffee extract, cocoa powder, chocolate chips (sugar, chocolate liquor, cocoa butter, soy lecithin, vanilla), milk",
+    "pCalNames": [
+      "Serving Size",
+      "Calories",
+      "Calories from Fat",
+      "Total Fat (g)",
+      "Saturated fat (g)",
+      "Trans Fat (g)",
+      "Cholesterol (mg)",
+      "Sodium (mg)",
+      "Total Carbohydrates (g)",
+      "Dietary Fiber (g)",
+      "Sugars (g)",
+      "Protein (g)"
+    ],
+    "pCals": [
+      "1 Doughnut",
+      430, 210, 23, 11, 0, 0, 60, 30, "less than 1 gram", 62, 2
+    ]
+  }
+]
