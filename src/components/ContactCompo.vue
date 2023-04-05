@@ -25,7 +25,7 @@
             </div>
           </aside>
         </article>
-        <form>
+        <form @submit.prevent>
           <div>
             <h2>Get in Touch</h2>
             <div>
@@ -43,7 +43,7 @@
               <input type="text" />
             </div>
             <div class="input">
-              <p>Email Address</p>
+              <p>Message</p>
               <textarea cols="20" rows="8"></textarea>
             </div>
           </div>

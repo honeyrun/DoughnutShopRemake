@@ -6,6 +6,7 @@ import ShoppingCartPage from '../pages/ShoppingCartPage.vue';
 import ProductDetailPage from '../pages/ProductDetailPage.vue';
 import RegisterPage from '../pages/RegisterPage.vue';
 import CustomDoughnutPage from '../pages/CustomDoughnutPage.vue';
+import MainPage from '../pages/MainPage.vue';
 import AboutPage from '../pages/AboutPage.vue';
 import UserPage from '../pages/UserPage.vue'
 import NotFound from '../pages/NotFound.vue';
@@ -15,7 +16,7 @@ const routes = [
         path: "/",
         alias: "/main",
         name: "main",
-        component: LoginPage
+        component: MainPage
     },
     {
         path: "/",

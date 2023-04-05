@@ -65,7 +65,6 @@
           </section>
         </aside>
       </article>
-
       <!-- Recommended donuts -->
       <section id="items">
         <h2>You May Also Like</h2>
@@ -293,9 +292,9 @@ a:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  row-gap: 2vh;
   background-color: white;
-  padding: 7vh 0;
+  row-gap: 1.2rem;
+  padding: 3.8rem 0;
 
   article {
     width: 70%;
