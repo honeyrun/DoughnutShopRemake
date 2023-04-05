@@ -32,7 +32,7 @@
     </div>
     <div>
       <ul>
-        <li v-if="!logFlag"><router-link to="/">Login </router-link></li>
+        <li v-if="!logFlag"><router-link to="/login">Login </router-link></li>
         <li id="cart">
           <router-link to="/shoppingcart"
             ><i class="fa-solid fa-cart-shopping"></i>({{

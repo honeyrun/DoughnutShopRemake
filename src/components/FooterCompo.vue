@@ -71,7 +71,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 1.8rem;
+  padding: 2.2rem;
   box-sizing: border-box;
   row-gap: 1.5rem;
 }
@@ -104,7 +104,7 @@ section {
 ul {
   display: flex;
   flex-direction: column;
-  row-gap: 0.4rem;
+  row-gap: 0.5rem;
 
   li {
     font-size: 13px;

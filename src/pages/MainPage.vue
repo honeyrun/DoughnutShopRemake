@@ -108,7 +108,7 @@ section {
   box-sizing: border-box;
 }
 h1 {
-  font-size: 44px;
+  font-size: 40px;
   text-align: center;
 }
 p {
@@ -187,7 +187,7 @@ p {
   }
   div {
     padding-right: 6rem;
-    flex: 2.8;
+    flex: 3;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
@@ -195,7 +195,8 @@ p {
     figure {
       position: absolute;
       right: -10%;
-      bottom: -60%;
+      bottom: 6%;
+      transform: translateY(50%);
       width: 30%;
     }
   }

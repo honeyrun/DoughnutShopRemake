@@ -118,9 +118,7 @@ export default {
           this.loggedUser = new User(JSON.parse(this.decrypt(userData)));
           this.shoppingCart.assignUser(this.loggedUser.cartID);
           this.logFlag = true;
-        } else {
-          this.$router.push({ name: "login" });
-        }
+        } 
       }
     } catch (e) {
       // wrong access
