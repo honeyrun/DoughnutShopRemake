@@ -1,37 +1,40 @@
 <template>
-  <div id="lCon">
-    <figure>
-      <img src="../assets/logo_donuts.png" alt="logo" />
-    </figure>
-    <div id="cont">
-      <h1>Welcome to <span>Maple Donuts</span></h1>
-      <form @submit.prevent="login">
-        <div>
-          <figure>
-            <img src="../assets/icons/user.png" alt="user" />
-          </figure>
-          <input name="email" placeholder="Email" v-model="userObj.email" />
-        </div>
-        <div>
-          <figure>
-            <img src="../assets/icons/padlock.png" alt="pass" />
-          </figure>
-          <input
-            name="pass"
-            :type="type"
-            placeholder="Password "
-            v-model="userObj.pass"
-          />
-          <figure @click="showHide" v-show="flag">
-            <img src="../assets/icons/view.png" alt="view" />
-          </figure>
-          <figure @click="showHide" v-show="!flag">
-            <img src="../assets/icons/hide.png" alt="hide" />
-          </figure>
-        </div>
-        <button type="submit">Sign In</button>
-      </form>
-      <router-link to="/register"><h3>Sign Up</h3></router-link>
+  <div>
+    <div class="navBg"></div>
+    <div id="lCon">
+      <figure>
+        <img src="../assets/logo_donuts.png" alt="logo" />
+      </figure>
+      <div id="cont">
+        <h1>Welcome to <span>Maple Donuts</span></h1>
+        <form @submit.prevent="login">
+          <div>
+            <figure>
+              <img src="../assets/icons/user.png" alt="user" />
+            </figure>
+            <input name="email" placeholder="Email" v-model="userObj.email" />
+          </div>
+          <div>
+            <figure>
+              <img src="../assets/icons/padlock.png" alt="pass" />
+            </figure>
+            <input
+              name="pass"
+              :type="type"
+              placeholder="Password "
+              v-model="userObj.pass"
+            />
+            <figure @click="showHide" v-show="flag">
+              <img src="../assets/icons/view.png" alt="view" />
+            </figure>
+            <figure @click="showHide" v-show="!flag">
+              <img src="../assets/icons/hide.png" alt="hide" />
+            </figure>
+          </div>
+          <button type="submit">Sign In</button>
+        </form>
+        <router-link to="/register"><h3>Sign Up</h3></router-link>
+      </div>
     </div>
   </div>
 </template>
@@ -64,8 +67,10 @@ export default {
 };
 </script>
 
-<style scoped>
- #lCon {
+<style lang="scss" scoped>
+@import "../assets/variables.scss";
+
+#lCon {
   padding: 20vh 6vh;
   display: flex;
   flex-direction: row;
@@ -86,10 +91,8 @@ form {
   row-gap: 8vh;
   font-size: 25px;
 }
-div {
-  display: flex;
-}
-form>div {
+
+form > div {
   align-items: flex-start;
   width: 50%;
 }
@@ -145,5 +148,3 @@ h3:hover {
   transition: 0.3s;
 }
 </style>
-
-

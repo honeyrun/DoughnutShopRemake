@@ -138,10 +138,6 @@ export default {
 <style lang="scss" scoped>
 @import "../assets/variables.scss";
 
-.navBg {
-  background-color: $green;
-  height: 5rem;
-}
 h1 {
   font-size: 40px;
 }

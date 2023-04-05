@@ -70,7 +70,7 @@ export default {
             this.encrypt(JSON.stringify(this.loggedUser))
           );
           // redirect to main
-          this.$router.push({ name: "product-list" });
+          this.$router.push({ name: "main" });
           console.log("login success");
 
           // if the user has cart data, restore data
@@ -95,7 +95,6 @@ export default {
     },
     logout() {
       sessionStorage.removeItem("loggedUser");
-      this.$router.push({ name: "login" });
       this.loggedUser = null;
       this.logFlag = false;
       window.location.reload();
@@ -187,5 +186,10 @@ input::-webkit-inner-spin-button {
 }
 input[type="radio"], input[type="checkbox"] {
   accent-color: $green;
+}
+
+.navBg {
+  background-color: $green;
+  height: 5rem;
 }
 </style>

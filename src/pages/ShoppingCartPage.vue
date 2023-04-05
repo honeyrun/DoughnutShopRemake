@@ -66,11 +66,6 @@ export default {
 <style lang="scss" scoped>
 @import "../assets/variables.scss";
 
-.navBg {
-  background-color: $green;
-  height: 5rem;
-}
-
 #cartCon {
   padding: 5vh 0;
   display: flex;

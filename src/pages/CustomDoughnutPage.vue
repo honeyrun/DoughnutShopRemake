@@ -247,11 +247,6 @@ export default {
 <style lang="scss" scoped>
 @import "../assets/variables.scss";
 
-.navBg {
-  background-color: $green;
-  height: 5rem;
-}
-
 #customCon {
   padding-top: 7vh;
   padding-bottom: 10vh;
